@@ -1,0 +1,8 @@
+{
+ "app": {
+    "name": "Skeletown"
+  },
+  "tools": {
+    "bulma": true
+  }
+}
